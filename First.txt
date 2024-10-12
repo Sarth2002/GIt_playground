@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 First
+=======
+First - which is having more importance
+Second
+>>>>>>> Stashed changes
